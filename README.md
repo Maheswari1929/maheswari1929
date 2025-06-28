@@ -66,7 +66,7 @@ I'm a dedicated Full Stack Developer with a passion for developing robust and ef
 
 - 💼 [LinkedIn](https://linkedin.com/in/maheswari-am)
 - 📧 Email: maheswari1929@gmail.com  
-- 🌐 *Portfolio coming soon!*
+- 🌐 Portfolio: https://maheswari-maharana.vercel.app/
 
 ---
 
