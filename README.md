@@ -1,46 +1,51 @@
-# 👋 Hello, I'm [Your Full Name]
+<p align="center">
+  <h1 align="center">👋 Hello, I'm <strong>Maheswari Maharana</strong></h1>
+  <h3 align="center">
+    🚀 Java Full Stack Developer | React | Spring Boot | Microservices <br/>
+    🎯 Passionate About End-to-End Solutions
+  </h3>
+</p>
 
-🚀 **Java Full Stack Developer** | **React** | **Spring Boot** | **Microservices**  
-🎯 Passionate about building **end-to-end scalable solutions**
-
-📍 [Your City, Country] | 💬 Pronouns: he/him
+<p align="center">
+  📍 Bhubaneswar, Odisha &nbsp; | &nbsp; 💬 Pronouns: she/her
+</p>
 
 ---
 
 ## 🧠 About Me
 
-👨‍💻 Full Stack Developer with a strong focus on **Java & JavaScript ecosystems**  
-⚙️ Backend: Java · Spring Boot · Microservices · REST APIs  
-🌐 Frontend: React.js · HTML5 · CSS3 · JavaScript · TypeScript  
-🛠 DevOps: Docker · Jenkins · Git · GitHub Actions · Postman  
-📡 Cloud: AWS (EC2, S3) · Azure (optional)  
-🧪 Testing: JUnit · Mockito  
-🗃️ Databases: MySQL · PostgreSQL · MongoDB  
-🔍 Obsessed with code quality, automation, and performance optimization
+I'm a dedicated Full Stack Developer with a passion for developing robust and efficient systems. I love solving real-world problems by combining clean architecture with modern development practices.
+
+- 💻 **Frontend:** React · HTML5 · CSS3 · JavaScript · TypeScript · Redux  
+- ⚙️ **Backend:** Java · Spring Boot · RESTful APIs · Microservices  
+- 🛢️ **Databases:** MySQL · PostgreSQL · MongoDB  
+- ☁️ **Cloud & DevOps:** AWS · Docker · Jenkins · Git · GitHub Actions  
+- 🧪 **Testing:** JUnit · Mockito  
+- 🧰 **Build Tools:** Maven · Gradle  
 
 ---
 
 ## 🧰 Tech Stack
 
-| 🌟 Domain         | 🔧 Tools & Technologies                                       |
-|-------------------|--------------------------------------------------------------|
-| 💻 Frontend        | React · HTML · CSS · JavaScript · Redux · TypeScript         |
-| ⚙️ Backend         | Java · Spring Boot · Spring Security · RESTful APIs          |
-| 🛢️ Databases       | MySQL · PostgreSQL · MongoDB                                 |
-| ☁️ Cloud/DevOps    | AWS · Docker · Jenkins · Git · GitHub Actions                |
-| 🧪 Testing         | JUnit · Mockito                                              |
-| 📦 Package Tools   | Maven · Gradle                                               |
+| 🌟 Domain         | 🔧 Tools & Technologies                                           |
+|-------------------|------------------------------------------------------------------|
+| 💻 Frontend        | React · HTML · CSS · JavaScript · TypeScript · Redux            |
+| ⚙️ Backend         | Java · Spring Boot · Spring Security · REST APIs                |
+| 🛢️ Databases       | MySQL · PostgreSQL · MongoDB                                     |
+| ☁️ Cloud/DevOps    | AWS · Docker · Jenkins · Git · GitHub Actions                    |
+| 🧪 Testing         | JUnit · Mockito                                                  |
+| 📦 Package Tools   | Maven · Gradle                                                   |
 
 ---
 
 ## 🚀 Featured Projects
 
-| 📂 Project                     | 📝 Description                                                                 |
-|-------------------------------|------------------------------------------------------------------------------|
-| 🛍️ E-Commerce App             | Full stack app with Spring Boot backend and React frontend + JWT auth       |
-| 📋 Task Manager               | REST APIs with Spring Boot, React UI, PostgreSQL database                   |
-| ⚙️ Microservices Demo         | Modular services architecture with Spring Cloud · Eureka · Zuul · Docker   |
-| 📊 Portfolio Website          | Responsive React-based personal website with deployment on GitHub Pages    |
+| 📂 Project                   | 📝 Description                                                                 |
+|-----------------------------|------------------------------------------------------------------------------|
+| 🛍️ **E-Commerce App**       | Full stack web app using Spring Boot and React with JWT-based authentication |
+| 📋 **Task Manager**         | Task tracking system with REST APIs (Spring Boot) and React UI               |
+| ⚙️ **Microservices Demo**   | Distributed services with Spring Cloud, Eureka, Zuul, and Docker             |
+| 📊 **Portfolio Website**    | Responsive personal site built with React and deployed on GitHub Pages       |
 
 > ⚡ More projects coming soon — always building, always learning!
 
@@ -48,16 +53,16 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true)
+![Maheswari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheswari1929&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari1929&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(optional)*
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/maheswari-am)
+- 📧 Email: maheswari1929@gmail.com  
+- 🌐 *Portfolio coming soon!*
 
 ---
 
